@@ -1,21 +1,77 @@
-# COURSEWORK NAME
+# Seeing like a developer
 
-Replace this readme with the requirements for your coursework
+Welcome, everyone. This workshop is your first set of technical "glasses". You're going to learn to see a website like a developer. This means you will use a system of inquiry to help you find information in complex interfaces.
+
+_Caution: Once you start seeing like a developer, you can't unsee it! You might find it harder to view interfaces as a regular user would - which is ironically who we design them for._
+
+> https://github.com/CodeYourFuture/Developer-Specs/
 
 ## Learning Objectives
-- [ ] Use the [Teach Tech Together](https://teachtogether.tech/en/index.html#s:process-objectives) guide to construct your objectives
-- [ ] Limit the objectives to 3-5 items
-- [ ] Write objectives you can measure
+<!--{{<objectives>}}-->
+- [ ] Make sense of an issue, pull request, and file tree view.
+- [ ] Identify the purpose of a repo by reading its README file.
+- [ ] Predict and discover hidden information available in the GitHub interface
+<!--{{</objectives>}}-->
 
 ## Requirements
 
-Explain the requirements of the coursework. You might want to talk about goals here. 
-You might want to use formal specifications like Given/When/Then. It's ok for requirements to be in different formats.
-We want trainees to learn to interpret requirements in many settings and expressions.
+This workshop is designed to be completed on GitHub. You will need to have a GitHub account and access to the internet. Other than that it's for newbies!
+
+There are three activities. Split into groups of no more than 5 and set a timer so you don't lose track of time. 
+
+
+> [!NOTE]
+> ## Exercise 1: Eat Me, Drink Me 📚 <!--{{<time>}}10{{</time>}}-->
+> The first thing you should always do is find and read the README
+> 
+> - Find the README file in this repository
+> - What's its purpose? How can you tell?
+
+Key takeaway: don't skip over text. Read it. 
+
+> [!NOTE]
+> ## Exercise 2: You've Got Issues 🔍 <!--{{<time>}}15{{</time>}}-->
+>
+> All your coursework is assigned as issues, so you definitely need to understand them. Go to https://github.com/CodeYourFuture/Developer-Specs/ and let's play detective:
+>
+> - Can you find where issues are listed?
+> - Look at the labels - what story do they tell about how work is organized? Hover over them - what else can you find out?
+> - Create an issue yourself. What options do you discover?
+> - Challenge: Can you find out who decides what labels mean?
+
+Popcorn round your group and share one key takeaway
+
+> [!NOTE]
+> ## Exercise 3: Pull the Other One 🕵️ <!--{{<time>}}20{{</time>}}-->
+>
+> Time to explore how code changes are tracked and discussed. You're going to need to slow way way down here. Instead of jumping around, skipping over all the details, you're going to read this page view from top to bottom. Really look at it. Ask each other: what does this button mean? Where does this link go? 
+>
+> - Find a pull request (PR) and "step through" the interface reading it line by line.
+> - What's the story being told in the PR?
+> - Can you piece together what changed and why?
+> - Where can you find the file changes in this PR?
+> - How can you filter the changes in the file view?
+> - Where is the conversation happening?
+> - Where can you see all the pull requests on this repo?
+
+Write your key takeaway down in your notebook. 
+
+## Solo Challenge: Hidden Powers 🔮 <!--{{<time>}}5{{</time>}}-->
+
+Take 5 minutes to click around and try things:
+
+- What happens when you press '/' or 't'?
+- Can you find other keyboard shortcuts?
+- What search tools can you discover?
+- How could you find a word on this page instantly?
+
+Share your most surprising discovery with the group as you wrap up
+
+Remember: There's no "correct" path through this workshop. The goal is to develop your own way of exploring and understanding interfaces. 
 
 ## Acceptance Criteria
 
-- [ ] I have provided clear success criteria
-- [ ] These might be related to the objectives and the requirements
-- [ ] I have given some simple, clear ways for trainees to evaluate their work
-- [ ] I have run Lighthouse and my Accessibility score is 100
+- I can find the issues view, the pull request view, and the file tree view on any GitHub repo
+- I know how to create an issue and attach labels
+- I have a strategy for finding things in the GitHub interface
+- I can bring up the search and the command palette
