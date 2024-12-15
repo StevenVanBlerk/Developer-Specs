@@ -17,11 +17,11 @@ _Caution: Once you start seeing like a developer, you can't unsee it! You might 
 
 This workshop is designed to be completed on GitHub. You will need to have a GitHub account and access to the internet. Other than that it's for newbies!
 
-There are three activities. Split into groups of no more than 5 and set a timer so you don't lose track of time. 
+There are three activities. Split into groups of no more than 5 and set a timer so you don't lose track of time. Click the stopwatch times to start a countdown.
 
 
 > [!NOTE]
-> ## Exercise 1: Eat Me, Drink Me 📚 <!--{{<time>}}10{{</time>}}-->
+> ## Exercise 1: Eat Me, Drink Me 📚 <!--{{<timer>}}10{{</timer>}}-->
 > The first thing you should always do is find and read the README
 > 
 > - Find the README file in this repository
@@ -30,7 +30,7 @@ There are three activities. Split into groups of no more than 5 and set a timer 
 Key takeaway: don't skip over text. Read it. 
 
 > [!NOTE]
-> ## Exercise 2: You've Got Issues 🔍 <!--{{<time>}}15{{</time>}}-->
+> ## Exercise 2: You've Got Issues 🔍 <!--{{<timer>}}15{{</timer>}}-->
 >
 > All your coursework is assigned as issues, so you definitely need to understand them. Go to https://github.com/CodeYourFuture/Developer-Specs/ and let's play detective:
 >
@@ -42,7 +42,7 @@ Key takeaway: don't skip over text. Read it.
 Popcorn round your group and share one key takeaway
 
 > [!NOTE]
-> ## Exercise 3: Pull the Other One 🕵️ <!--{{<time>}}20{{</time>}}-->
+> ## Exercise 3: Pull the Other One 🕵️ <!--{{<timer>}}20{{</timer>}}-->
 >
 > Time to explore how code changes are tracked and discussed. You're going to need to slow way way down here. Instead of jumping around, skipping over all the details, you're going to read this page view from top to bottom. Really look at it. Ask each other: what does this button mean? Where does this link go? 
 >
@@ -56,7 +56,7 @@ Popcorn round your group and share one key takeaway
 
 Write your key takeaway down in your notebook. 
 
-## Solo Challenge: Hidden Powers 🔮 <!--{{<time>}}5{{</time>}}-->
+## Solo Challenge: Hidden Powers 🔮 <!--{{<timer>}}5{{</timer>}}-->
 
 Take 5 minutes to click around and try things:
 
