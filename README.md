@@ -1,5 +1,7 @@
 # Seeing like a developer
 
+> The purpose of this readme is to explain the objectives and activities of the Developer Specs workshop.
+
 Welcome, everyone. This workshop is your first set of technical "glasses". You're going to learn to see a website like a developer. This means you will use a system of inquiry to help you find information in complex interfaces.
 
 _Caution: Once you start seeing like a developer, you can't unsee it! You might find it harder to view interfaces as a regular user would - which is ironically who we design them for._
