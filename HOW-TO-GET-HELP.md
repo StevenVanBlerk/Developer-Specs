@@ -9,7 +9,7 @@ Update Instructions: https://gist.github.com/ChrisOwen101/84d82f03a60ce19f7f154a
 
 Learning to ask good questions is a key skill for a developer and you should practice this every week at CYF. You must spend a lot of time learning how to describe problems clearly and systematically:
 
-https://syllabus.codeyourfuture.io/guides/asking-questions
+https://curriculum.codeyourfuture.io/guides/asking-questions
 
 Problem-solving is the real (marketable) skill of software developers. If you do not have questions to ask about your work, ask for some different work. Don't miss this opportunity to break down challenging problems with a large team of developers.
 
@@ -27,20 +27,8 @@ You should complete all of the steps in the order listed to get help.
 - Have you noticed a bug?
 - Is there a typo or a mistake you can help clean up?
 
-Post in the channel named after the module you are working on:
+Open an issue directly to the Curriculum. CYF Curriculum is an Open Source project developed on GitHub and you are invited to contribute. Read the Issue Template carefully.
 
-- Git - `cyf-module-git`
-- HTML/CSS - `cyf-module-html-css`
-- JavaScript Core 1 - `cyf-module-js1`
-- JavaScript Core 2 - `cyf-module-js2`
-- JavaScript Core 2 - `cyf-module-js3`
-- React - `cyf-module-react`
-- Node - `cyf-module-node`
-- SQL - `cyf-module-sql`
-- MongoDB - `cyf-module-mongodb`
+https://github.com/CodeYourFuture/curriculum/issues/new/choose
 
-Or open an issue directly to the Syllabus. CYF Syllabus is an Open Source project developed on GitHub and you are invited to contribute. Read the Issue Template carefully.
-
-https://github.com/CodeYourFuture/syllabus/issues/new/choose
-
-Still not clear where to share your issue? Post in #cyf-syllabus-tech.
+Still not clear where to share your issue? Post in your questions channel. Remember to read the canvas first!
