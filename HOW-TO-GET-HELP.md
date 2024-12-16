@@ -15,11 +15,7 @@ Problem-solving is the real (marketable) skill of software developers. If you do
 
 ## Guide
 
-Please review our guide on the Syllabus for how to get help when you are really blocked:
-
-https://syllabus.codeyourfuture.io/guides/escalation-policy/
-
-You should complete all of the steps in the order listed to get help.
+First, write up your question as clearly as you can. This will help you to think through the problem and will usually help you to solve it yourself. If you still can't solve it, post your question to Slack. If you still can't solve it, come to class with your question.
 
 ## Reporting Issues in Coursework
 
