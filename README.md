@@ -76,4 +76,4 @@ Remember: There's no "correct" path through this workshop. The goal is to develo
 - I can find the issues view, the pull request view, and the file tree view on any GitHub repo
 - I know how to create an issue and attach labels
 - I have a strategy for finding things in the GitHub interface
-- I can bring up the search and the command palette
+- I can bring up the search
