@@ -10,9 +10,14 @@ _Caution: Once you start seeing like a developer, you can't unsee it! You might 
 
 ## Learning Objectives
 <!--{{<objectives>}}-->
+- [ ] Find the issues view, the pull request view, and the file tree view on any GitHub repo.
 - [ ] Make sense of an issue, pull request, and file tree view.
+- [ ] Create an issue and attach labels to it.
 - [ ] Identify the purpose of a repo by reading its README file.
-- [ ] Predict and discover hidden information available in the GitHub interface
+- [ ] Predict and discover hidden information available in the GitHub interface.
+- [ ] Bring up the search on a GitHub page.
+
+
 <!--{{</objectives>}}-->
 
 ## Requirements
@@ -73,7 +78,4 @@ Remember: There's no "correct" path through this workshop. The goal is to develo
 
 ## Acceptance Criteria
 
-- I can find the issues view, the pull request view, and the file tree view on any GitHub repo
-- I know how to create an issue and attach labels
-- I have a strategy for finding things in the GitHub interface
-- I can bring up the search
+Check the Learning Objectives list at the top of this workshop. Make sure you're achieved them all.
